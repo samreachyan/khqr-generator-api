@@ -5,3 +5,7 @@ spring:
 
 server:
   port: 8080
+
+asset:
+    image: D:/WORKS/FTB/Source code/Java/Learn/khqr/image/
+    resource: D:/WORKS/FTB/Source code/Java/Learn/khqr/src/main/resources/report/
